@@ -5,7 +5,7 @@ This is a website for Awechords A Cappella. Created with HTML/CSS, JS & Bootstra
 
 ## Motivation
 
-Revamping the Awechords A Cappella website to reflect changes and a newer design for 2016.
+Revamping the Awechords A Cappella website to reflect changes and a newer design for 2016. New site, from prototype to finish. 
 
 ## Contributors
 
