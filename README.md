@@ -1,6 +1,6 @@
 ## Synopsis
 
-This is a website for Awechords A Cappella. Created with HTML/CSS, JS & Bootstrap
+This is a website for Awechords A Cappella. Created with HTML/CSS & Bootstrap
 =======
 # Awechords-Website
 A website for Awechords A Cappella 
@@ -8,7 +8,6 @@ A website for Awechords A Cappella
 ## Synopsis
 
 This is a website for Awechords A Cappella. Created with HTML/CSS & Bootstrap, prototyped in Sketch, Adobe Xd and Adobe Photoshop 
->>>>>>> origin/master
 
 
 ## Motivation
